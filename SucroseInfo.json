@@ -1,6 +1,6 @@
 {
   "AppVersion": "25.10.20.0",
-  "Version": "7.3.1.1",
+  "Version": "7.3.0",
   "Title": "Neo Matrix",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -19,7 +19,7 @@
   "Arguments": null,
   "Localization": {
     "DE": {
-      "Title": "Neo-Matrix",
+      "Title": "Neo Matrix",
       "Description": "Dies ist ein hochgradig anpassbares animiertes Matrix-Wallpaper."
     },
     "ES": {
@@ -31,7 +31,7 @@
       "Description": "Ceci est un fond d'écran Matrix animé et hautement personnalisable."
     },
     "HI": {
-      "Title": "नियो मैट्रिक्स",
+      "Title": "Neo Matrix",
       "Description": "यह एक अत्यधिक अनुकूलन योग्य एनिमेटेड मैट्रिक्स वॉलपेपर है।"
     },
     "PL": {
@@ -39,7 +39,7 @@
       "Description": "To wysoce konfigurowalna animowana tapeta Matrix."
     },
     "RU": {
-      "Title": "Нео Матрица",
+      "Title": "Neo Matrix",
       "Description": "Это высоко настраиваемые анимированные обои Матрица."
     },
     "TR": {
@@ -47,7 +47,7 @@
       "Description": "Bu, yüksek derecede özelleştirilebilir animasyonlu Matrix duvar kağıdıdır."
     },
     "ZH": {
-      "Title": "新黑客帝国",
+      "Title": "Neo Matrix",
       "Description": "这是一款高度可定制的动画矩阵壁纸。"
     }
   }
