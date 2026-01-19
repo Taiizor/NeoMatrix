@@ -1,20 +1,20 @@
 {
-  "AppVersion": "25.10.12.0",
-  "Version": "7.3.0",
+  "AppVersion": "25.10.20.0",
+  "Version": "7.3.1.1",
   "Title": "Neo Matrix",
-  "Thumbnail": "images/thumbnail.jpg",
-  "Preview": "images/preview.gif",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
   "Description": "This is a highly customizable animated Matrix wallpaper.",
   "Author": "Mohammad Mahdi Nazari",
-  "License": "LICENSE",
+  "License": "License.txt",
   "Contact": "https://github.com/IPdotSetAF",
   "Type": 2,
-  "Source": "index.html",
+  "Source": "Matrix.html",
   "Tags": [
-    "Sci-Fi",
+    "Science Fiction",
     "Hacker",
-    "Music",
-    "Matrix"
+    "Sci-Fi",
+    "Music"
   ],
   "Arguments": null,
   "Localization": {
@@ -30,13 +30,25 @@
       "Title": "Neo Matrix",
       "Description": "Ceci est un fond d'écran Matrix animé et hautement personnalisable."
     },
+    "HI": {
+      "Title": "नियो मैट्रिक्स",
+      "Description": "यह एक अत्यधिक अनुकूलन योग्य एनिमेटेड मैट्रिक्स वॉलपेपर है।"
+    },
     "PL": {
       "Title": "Neo Matrix",
       "Description": "To wysoce konfigurowalna animowana tapeta Matrix."
     },
+    "RU": {
+      "Title": "Нео Матрица",
+      "Description": "Это высоко настраиваемые анимированные обои Матрица."
+    },
     "TR": {
       "Title": "Neo Matrix",
       "Description": "Bu, yüksek derecede özelleştirilebilir animasyonlu Matrix duvar kağıdıdır."
+    },
+    "ZH": {
+      "Title": "新黑客帝国",
+      "Description": "这是一款高度可定制的动画矩阵壁纸。"
     }
   }
 }
